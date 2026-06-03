@@ -12,11 +12,11 @@ Copyright: 2023 ©MdRasen
 var typed = new Typed(".typing", {
   strings: [
     "",
-    "Java  Developer",
+    "Full Stack Developer",
     "",
-    " Frontend Developer",
+    "Mern stack ",
     "",
-    "Content Creator",
+    "java Full stack",
   ],
   typeSpeed: 100,
   BackSpeed: 60,
